@@ -7,11 +7,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SqlClient;
 
 namespace Exam1
 {
     public partial class Form1 : Form
     {
+        SqlConnection conn = new SqlConnection(@"");
         public Form1()
         {
             InitializeComponent();
