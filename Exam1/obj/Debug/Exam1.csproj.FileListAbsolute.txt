@@ -1,0 +1,12 @@
+E:\VS\Exam1\Exam1\bin\Debug\Exam1.exe.config
+E:\VS\Exam1\Exam1\bin\Debug\Exam1.exe
+E:\VS\Exam1\Exam1\bin\Debug\Exam1.pdb
+E:\VS\Exam1\Exam1\obj\Debug\Exam1.csproj.AssemblyReference.cache
+E:\VS\Exam1\Exam1\obj\Debug\Exam1.csproj.SuggestedBindingRedirects.cache
+E:\VS\Exam1\Exam1\obj\Debug\Exam1.Form1.resources
+E:\VS\Exam1\Exam1\obj\Debug\Exam1.Form2.resources
+E:\VS\Exam1\Exam1\obj\Debug\Exam1.Properties.Resources.resources
+E:\VS\Exam1\Exam1\obj\Debug\Exam1.csproj.GenerateResource.cache
+E:\VS\Exam1\Exam1\obj\Debug\Exam1.csproj.CoreCompileInputs.cache
+E:\VS\Exam1\Exam1\obj\Debug\Exam1.exe
+E:\VS\Exam1\Exam1\obj\Debug\Exam1.pdb
